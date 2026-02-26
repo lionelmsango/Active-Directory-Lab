@@ -80,7 +80,7 @@ This project demonstrates hands-on Active Directory administration in an isolate
 ---
 
 ### Task 3: User Account Management
-**Objective:** Provision 15 user accounts with realistic attributes
+**Objective:** Provision 13 user accounts with realistic attributes
 
 **Actions Taken:**
 - Created 13 user accounts across 6 departments
