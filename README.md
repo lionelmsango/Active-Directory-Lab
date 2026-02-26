@@ -142,9 +142,26 @@ This project demonstrates hands-on Active Directory administration in an isolate
 ![Client](https://github.com/lionelmsango/Active-Directory-Lab/blob/c3c13de00812c48655d1d241b4eac8da93421bab/Screenshots/screen7b.jpg)
 ![Client](https://github.com/lionelmsango/Active-Directory-Lab/blob/c3c13de00812c48655d1d241b4eac8da93421bab/Screenshots/screen7c.jpg)
 
+
+
    
 2. User onboarding workflow
-3. Account offboarding
+   -  Scenario: A new member, Eva Krug, joined the organization's Communications department. Her account has been provisioned and assigned to the appropriate Organizational Unit (OU).
+
+![Client](https://github.com/lionelmsango/Active-Directory-Lab/blob/2b9a68025744481e42deff987599d0fdfc016bf3/Screenshots/sc8.jpg)
+
+
+
+
+
+4. Account offboarding
+   - Scenario: Laura Becker is leaving the organization. Her account has been disabled, a password reset has been performed, and she has been removed from the user group
+     
+![Client](https://github.com/lionelmsango/Active-Directory-Lab/blob/2b9a68025744481e42deff987599d0fdfc016bf3/Screenshots/sc9a.jpg)
+![Client](https://github.com/lionelmsango/Active-Directory-Lab/blob/2b9a68025744481e42deff987599d0fdfc016bf3/Screenshots/sc9b.jpg)
+![Client](https://github.com/lionelmsango/Active-Directory-Lab/blob/2b9a68025744481e42deff987599d0fdfc016bf3/Screenshots/sc9c.jpg)
+     
+
 
 
 **Skills Demonstrated:** Technical documentation, troubleshooting methodology
@@ -184,7 +201,7 @@ This project demonstrates hands-on Active Directory administration in an isolate
 
 **Daily Operations:**
 - Password resets 
-- User provisioning
+- User provisioning/deprovisioning
 
 
 ---
