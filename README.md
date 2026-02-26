@@ -45,7 +45,8 @@ This project demonstrates hands-on Active Directory administration in an isolate
 
 **Result:** Fully operational domain controller serving yosco.local domain
 
-![Domain Controller](screenshots/02-domain-controller/05-dns-manager.png)
+![Domain Controller](https://github.com/lionelmsango/Active-Directory-Lab/blob/838653160bd0daa9e9200d6d0c40712df94bc76d/Screenshots/screenshot_2_win_server_static_ip.jpg)
+![Domain Controller](https://github.com/lionelmsango/Active-Directory-Lab/blob/838653160bd0daa9e9200d6d0c40712df94bc76d/Screenshots/screenshot_2a_ad_ds.jpg)
 
 ---
 
