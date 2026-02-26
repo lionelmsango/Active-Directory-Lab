@@ -92,7 +92,7 @@ This project demonstrates hands-on Active Directory administration in an isolate
 
 ![Users](https://github.com/lionelmsango/Active-Directory-Lab/blob/218982bb3b19070e1f111446061468a18648f09b/Screenshots/ascreenshot5a_users.jpg)
 ![Users](https://github.com/lionelmsango/Active-Directory-Lab/blob/218982bb3b19070e1f111446061468a18648f09b/Screenshots/bscreenshot5b_users.jpg)
-![Users](https://github.com/lionelmsango/Active-Directory-Lab/blob/218982bb3b19070e1f111446061468a18648f09b/Screenshots/cscreenshot5c_users.jpg)
+![Users](https://github.com/lionelmsango/Active-Directory-Lab/blob/bf59ee42e224004db2277ba1c26454873f2e60e7/Screenshots/scre5ccccc.jpg)
 ![Users](https://github.com/lionelmsango/Active-Directory-Lab/blob/218982bb3b19070e1f111446061468a18648f09b/Screenshots/dscreenshot5d_users.jpg)
 ![Users](https://github.com/lionelmsango/Active-Directory-Lab/blob/218982bb3b19070e1f111446061468a18648f09b/Screenshots/escreenshot5e_users.jpg)
 ![Users](https://github.com/lionelmsango/Active-Directory-Lab/blob/218982bb3b19070e1f111446061468a18648f09b/Screenshots/fscreenshot5f_users.jpg)
