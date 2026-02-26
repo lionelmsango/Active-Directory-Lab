@@ -20,6 +20,8 @@ This project demonstrates hands-on Active Directory administration in an isolate
 
 ![Network Topology](https://github.com/lionelmsango/Active-Directory-Lab/blob/e7fa3ec70a31d48c53851f21e481e0514d013c65/network-topography.drawio.png)
 
+
+
 **Environment Specifications:**
 - **Hypervisor:** Hyper-V on Windows Desktop
 - **Domain Controller:** Windows Server 2022 (DC-GW-01)
@@ -47,6 +49,7 @@ This project demonstrates hands-on Active Directory administration in an isolate
 
 ![Domain Controller](https://github.com/lionelmsango/Active-Directory-Lab/blob/838653160bd0daa9e9200d6d0c40712df94bc76d/Screenshots/screenshot_2_win_server_static_ip.jpg)
 ![Domain Controller](https://github.com/lionelmsango/Active-Directory-Lab/blob/838653160bd0daa9e9200d6d0c40712df94bc76d/Screenshots/screenshot_2a_ad_ds.jpg)
+
 
 
 ---
@@ -116,6 +119,7 @@ This project demonstrates hands-on Active Directory administration in an isolate
 ![Client](https://github.com/lionelmsango/Active-Directory-Lab/blob/d9775ddacaff9170bade06fec8f1cda5f6eab03d/Screenshots/screen6c.jpg)
 ![Client](https://github.com/lionelmsango/Active-Directory-Lab/blob/d9775ddacaff9170bade06fec8f1cda5f6eab03d/Screenshots/screen6d.jpg)
 ![Client](https://github.com/lionelmsango/Active-Directory-Lab/blob/d9775ddacaff9170bade06fec8f1cda5f6eab03d/Screenshots/screen6e.jpg)
+![Client](https://github.com/lionelmsango/Active-Directory-Lab/blob/3152e3ceb540962e7caa3862416c6c9133af116f/Screenshots/screen6f.jpg)
 
 
 
@@ -126,9 +130,10 @@ This project demonstrates hands-on Active Directory administration in an isolate
 
 **8 Scenarios Documented:**
 1. Account lockout resolution
-2. Password reset procedures
-3. User onboarding workflow
-4. Account offboarding
+   
+3. Password reset procedures
+4. User onboarding workflow
+5. Account offboarding
 
 
 **Skills Demonstrated:** Technical documentation, troubleshooting methodology
