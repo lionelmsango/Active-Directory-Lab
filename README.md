@@ -48,6 +48,7 @@ This project demonstrates hands-on Active Directory administration in an isolate
 ![Domain Controller](https://github.com/lionelmsango/Active-Directory-Lab/blob/838653160bd0daa9e9200d6d0c40712df94bc76d/Screenshots/screenshot_2_win_server_static_ip.jpg)
 ![Domain Controller](https://github.com/lionelmsango/Active-Directory-Lab/blob/838653160bd0daa9e9200d6d0c40712df94bc76d/Screenshots/screenshot_2a_ad_ds.jpg)
 
+
 ---
 
 ### Task 2: Organizational Unit Structure Design
@@ -67,7 +68,10 @@ This project demonstrates hands-on Active Directory administration in an isolate
 
 **Result:** Scalable OU structure supporting up to 200 users
 
-![OU Structure](screenshots/03-ou-structure/02-complete-hierarchy.png)
+![OU Structure](https://github.com/lionelmsango/Active-Directory-Lab/tree/94d6379421c978e1f427565537a6f8d04f238e58/Screenshots)
+![OU Structure](https://github.com/lionelmsango/Active-Directory-Lab/blob/f006b6c905c5cde80fa26d07611b6c7d413d26a2/Screenshots/Screenshot_3a_domain_created_.jpg)
+
+
 
 ---
 
