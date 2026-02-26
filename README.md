@@ -97,6 +97,7 @@ This project demonstrates hands-on Active Directory administration in an isolate
 ![Users](https://github.com/lionelmsango/Active-Directory-Lab/blob/218982bb3b19070e1f111446061468a18648f09b/Screenshots/escreenshot5e_users.jpg)
 ![Users](https://github.com/lionelmsango/Active-Directory-Lab/blob/218982bb3b19070e1f111446061468a18648f09b/Screenshots/fscreenshot5f_users.jpg)
 
+
 ---
 
 ### Task 4: Client Domain Integration
@@ -105,12 +106,18 @@ This project demonstrates hands-on Active Directory administration in an isolate
 **Actions Taken:**
 - Configured Windows 11 VM with static IP
 - Joined CLIENT-WIN11 to yosco.local
-- Verified GPO application with gpresult
+- Verified GPO application with gpresult 
 - Tested user authentication
 
 **Skills Demonstrated:** Client deployment, domain integration, GPO verification
 
-![Client](screenshots/06-client-domain-join/04-login-screen.png)
+![Client](https://github.com/lionelmsango/Active-Directory-Lab/blob/d9775ddacaff9170bade06fec8f1cda5f6eab03d/Screenshots/Screen6a.jpg)
+![Client](https://github.com/lionelmsango/Active-Directory-Lab/blob/d9775ddacaff9170bade06fec8f1cda5f6eab03d/Screenshots/screen6b.jpg)
+![Client](https://github.com/lionelmsango/Active-Directory-Lab/blob/d9775ddacaff9170bade06fec8f1cda5f6eab03d/Screenshots/screen6c.jpg)
+![Client](https://github.com/lionelmsango/Active-Directory-Lab/blob/d9775ddacaff9170bade06fec8f1cda5f6eab03d/Screenshots/screen6d.jpg)
+![Client](https://github.com/lionelmsango/Active-Directory-Lab/blob/d9775ddacaff9170bade06fec8f1cda5f6eab03d/Screenshots/screen6e.jpg)
+
+
 
 ---
 
