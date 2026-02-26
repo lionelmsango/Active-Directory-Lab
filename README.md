@@ -123,6 +123,7 @@ This project demonstrates hands-on Active Directory administration in an isolate
 
 
 
+
 ---
 
 ### Task 7: Support Scenario Documentation
@@ -130,10 +131,20 @@ This project demonstrates hands-on Active Directory administration in an isolate
 
 **8 Scenarios Documented:**
 1. Account lockout resolution
+   - Problem: User Lisa Mueller reports she cannot log in. Error: "Your account has been locked out."
+   - Diagnosis: I Opened Active Directory Users and Computers amd navigate to user: Lisa Mueller. I right-click Properties. Account tab shows: "Account is locked out" checkbox is grayed and checked
+   - Root Cause: 5 failed login attempts (per Password Policy GPO) - User was typing old password after recent password change
+   - Resolution: In user Properties → Account tab Check: ■ "Unlock account. This account is currently locked out" → Click Apply, then OK → Called user: "Your account is unlocked. Please try logging in now" → Received confirmation from user
+   - Prevention: - Educate user about Password Manager usage - Consider increasing lockout threshold from 5 to 7 attempts
+
+
+![Client](https://github.com/lionelmsango/Active-Directory-Lab/blob/c3c13de00812c48655d1d241b4eac8da93421bab/Screenshots/screen7a.jpg)
+![Client](https://github.com/lionelmsango/Active-Directory-Lab/blob/c3c13de00812c48655d1d241b4eac8da93421bab/Screenshots/screen7b.jpg)
+![Client](https://github.com/lionelmsango/Active-Directory-Lab/blob/c3c13de00812c48655d1d241b4eac8da93421bab/Screenshots/screen7c.jpg)
+
    
-3. Password reset procedures
-4. User onboarding workflow
-5. Account offboarding
+2. User onboarding workflow
+3. Account offboarding
 
 
 **Skills Demonstrated:** Technical documentation, troubleshooting methodology
