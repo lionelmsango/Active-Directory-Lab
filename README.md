@@ -70,6 +70,8 @@ This project demonstrates hands-on Active Directory administration in an isolate
 
 ![OU Structure](https://github.com/lionelmsango/Active-Directory-Lab/tree/94d6379421c978e1f427565537a6f8d04f238e58/Screenshots)
 ![OU Structure](https://github.com/lionelmsango/Active-Directory-Lab/blob/f006b6c905c5cde80fa26d07611b6c7d413d26a2/Screenshots/Screenshot_3a_domain_created_.jpg)
+![OU Structure](https://github.com/lionelmsango/Active-Directory-Lab/blob/5a235c82cb5896fe3a0997e7d2406b3721932328/Screenshots/screenshot_4_OU_created.jpg)
+
 
 
 
