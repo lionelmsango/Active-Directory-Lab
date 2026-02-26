@@ -74,7 +74,6 @@ This project demonstrates hands-on Active Directory administration in an isolate
 
 
 
-
 ---
 
 ### Task 3: User Account Management
@@ -91,7 +90,12 @@ This project demonstrates hands-on Active Directory administration in an isolate
 
 **Result:** 13 production-ready user accounts with complete profiles
 
-![Users](screenshots/04-users-and-groups/02-all-users.png)
+![Users](https://github.com/lionelmsango/Active-Directory-Lab/blob/218982bb3b19070e1f111446061468a18648f09b/Screenshots/ascreenshot5a_users.jpg)
+![Users](https://github.com/lionelmsango/Active-Directory-Lab/blob/218982bb3b19070e1f111446061468a18648f09b/Screenshots/bscreenshot5b_users.jpg)
+![Users](https://github.com/lionelmsango/Active-Directory-Lab/blob/218982bb3b19070e1f111446061468a18648f09b/Screenshots/cscreenshot5c_users.jpg)
+![Users](https://github.com/lionelmsango/Active-Directory-Lab/blob/218982bb3b19070e1f111446061468a18648f09b/Screenshots/dscreenshot5d_users.jpg)
+![Users](https://github.com/lionelmsango/Active-Directory-Lab/blob/218982bb3b19070e1f111446061468a18648f09b/Screenshots/escreenshot5e_users.jpg)
+![Users](https://github.com/lionelmsango/Active-Directory-Lab/blob/218982bb3b19070e1f111446061468a18648f09b/Screenshots/fscreenshot5f_users.jpg)
 
 ---
 
