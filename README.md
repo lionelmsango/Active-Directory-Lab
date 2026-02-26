@@ -18,7 +18,7 @@ This project demonstrates hands-on Active Directory administration in an isolate
 
 ## 🏗️ Architecture
 
-![Network Topology](diagrams/network-topology.png)
+![Network Topology](https://github.com/lionelmsango/Active-Directory-Lab/blob/e7fa3ec70a31d48c53851f21e481e0514d013c65/network-topography.drawio.png)
 
 **Environment Specifications:**
 - **Hypervisor:** Hyper-V on Windows Desktop
