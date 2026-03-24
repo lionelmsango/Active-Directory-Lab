@@ -205,12 +205,6 @@ This project demonstrates hands-on Active Directory administration in an isolate
 
 ---
 
-## 📞 Contact
-
-**Lionel Sango**  
-📧 lionel.m.sango@gmail.com  
-💼 [LinkedIn](https://linkedin.com/in/lionel-sango)  
-🐙 [GitHub](https://github.com/lionelmsango)
 
 ---
 
