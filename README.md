@@ -1,11 +1,8 @@
 # Active Directory On-Premises Lab
 
-**Lionel Sango** 
-*Active Directory administration & user support capabilities*
-
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 This project demonstrates hands-on Active Directory administration in an isolated lab environment:
 
@@ -16,7 +13,7 @@ This project demonstrates hands-on Active Directory administration in an isolate
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ![Network Topology](https://github.com/lionelmsango/Active-Directory-Lab/blob/e7fa3ec70a31d48c53851f21e481e0514d013c65/network-topography.drawio.png)
 
@@ -31,7 +28,7 @@ This project demonstrates hands-on Active Directory administration in an isolate
 
 ---
 
-## 📋 Implementation Tasks Completed
+## Implementation Tasks Completed
 
 ### Task 1: Domain Services Installation
 **Objective:** Deploy functional Active Directory Domain Controller
@@ -168,7 +165,7 @@ This project demonstrates hands-on Active Directory administration in an isolate
 ---
 
 
-## 🔧 Technologies Used
+## Technologies Used
 
 - Windows Server 2022, Windows 11 Enterprise
 - Active Directory DS, DNS, DHCP
@@ -178,7 +175,7 @@ This project demonstrates hands-on Active Directory administration in an isolate
 
 ---
 
-## 💡 Key Learnings
+## Key Learnings
 
 ### Technical Insights
 
@@ -196,7 +193,7 @@ This project demonstrates hands-on Active Directory administration in an isolate
 
 ---
 
-## 🚀 Real-World Applications
+## Real-World Applications
 
 **Daily Operations:**
 - Password resets 
@@ -208,4 +205,4 @@ This project demonstrates hands-on Active Directory administration in an isolate
 
 ---
 
-*This project demonstrates AD administration skills for IT Support and System Administrator roles in 40-200 employee organizations.*
+
